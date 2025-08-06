@@ -1,0 +1,23 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+}
+.create{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(255, 145, 0);
+    border-radius: 20px;
+}
+.see{
+    color: black;
+    text-decoration: none;
+    padding: 5px; 
+    border: 2px solid black;
+    border-radius: 20px;
+}
